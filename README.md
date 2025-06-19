@@ -1,6 +1,7 @@
 # Sign Language Translation Project
 
 This project is designed to translate hand gestures for sign language using machine learning models and image processing. It leverages hand gesture recognition to facilitate sign language translation in real-time.
+📄 [Research Report – Image-Based Sign Language Translation](./docs/Project_Report.pdf)
 
 ## Features
 - Hand gesture recognition using `hands_gesture_recog.py`.
